@@ -1,0 +1,10 @@
+{
+  "name": "BCA Énergies",
+  "short_name": "BCA",
+  "lang": "fr",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f1f4f8",
+  "theme_color": "#153c69",
+  "description": "Étude, installation et entretien de pompes à chaleur."
+}
